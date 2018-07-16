@@ -19,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="180" column="84" selection-start-line="180" selection-start-column="84" selection-end-line="180" selection-end-column="84" />
+            <state relative-caret-position="255">
+              <caret line="167" column="117" selection-start-line="167" selection-start-column="117" selection-end-line="167" selection-end-column="117" />
               <folding>
                 <element signature="e#3827#3834#0" expanded="true" />
               </folding>
@@ -50,6 +50,8 @@
       <find>be ab</find>
       <find>javascr</find>
       <find>devicon</find>
+      <find>My partner</find>
+      <find>github</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -123,12 +125,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531732073594</updated>
-      <workItem from="1531732074920" duration="6811000" />
+      <workItem from="1531732074920" duration="8294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6811000" />
+    <option name="totallyTimeSpent" value="8294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -162,8 +164,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="180" column="84" selection-start-line="180" selection-start-column="84" selection-end-line="180" selection-end-column="84" />
+        <state relative-caret-position="255">
+          <caret line="167" column="117" selection-start-line="167" selection-start-column="117" selection-end-line="167" selection-end-column="117" />
           <folding>
             <element signature="e#3827#3834#0" expanded="true" />
           </folding>
